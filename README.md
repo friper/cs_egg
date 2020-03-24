@@ -5,7 +5,8 @@ Overview
 
 ## Motor-Imagery イメージ・トレーニング
 
-### [Left/Right Hand MI](http://gigadb.org/dataset/100295) 両手の運動におけるイメージ・トレーニング  
+### [Left/Right Hand MI](http://gigadb.org/dataset/100295) 両手の運動におけるイメージ・トレーニング
+
 date: 2017/5/05
 -----
 
