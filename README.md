@@ -3,9 +3,9 @@ Cheat Sheet for Brain
 
 Overview
 
-## Motor-Imagery イメージ・トレーニング
+# Motor-Imagery イメージ・トレーニング
 
-### [Left/Right Hand MI](http://gigadb.org/dataset/100295) 両手の運動におけるイメージ・トレーニング
+## [Left/Right Hand MI](http://gigadb.org/dataset/100295) 両手の運動におけるイメージ・トレーニング
 **1. 概要**
 
 　52人の被験者（うち女性19人、平均年齢±SD年齢= 24.8±3.86歳）の左手と右手のMI運動についてBCI実験を実施した。これのデータ・セット。
@@ -15,7 +15,7 @@ Overview
 - サンプリンググレード：512Hz
 - BCI2000システム3.0.2
 - 2本のEMG電極を深指屈筋と各腕の伸筋に取り付ける
-- バックグラウンドノイズレベル：37?39db
+- バックグラウンドノイズレベル：37~39db
 
 **3. データ形式と構造**
 
@@ -46,19 +46,19 @@ Overview
     - EMGの活動と相関する悪い試験
 
 ### [Motor Movement/Imagery Dataset](https://www.physionet.org/physiobank/database/eegmmidb/)
-1. 概要
-2. 要件
-3. データ形式と構造
+**1. 概要**
+**2. 要件**
+**3. データ形式と構造**
 
 ### [Grasp and Lift EEG Challenge](https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data)
-1. 概要
-2. 要件
-3. データ形式と構造
+**1. 概要**
+**2. 要件**
+**3. データ形式と構造**
 
 ### [The largest SCP data of Motor-Imagery](https://doi.org/10.6084/m9.figshare.c.3917698)
-1. 概要
-2. 要件
-3. データ形式と構造
+**1. 概要**
+**2. 要件**
+**3. データ形式と構造**
 
 ### [BCI Competition IV-1](http://www.bbci.de/competition/iv/#dataset1)
 
