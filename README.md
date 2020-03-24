@@ -8,8 +8,7 @@ Overview
 ### [Left/Right Hand MI](http://gigadb.org/dataset/100295) 両手の運動におけるイメージ・トレーニング
 
 date: 2017/5/05
------
-aaa
+
 **1. 概要**  
 　52人の被験者（うち女性19人、平均年齢±SD年齢= 24.8±3.86歳）の左手と右手のMI運動についてBCI実験を実施した。これのデータ・セット。
 
@@ -48,6 +47,9 @@ aaa
     - EMGの活動と相関する悪い試験
 
 ### [Motor Movement/Imagery Dataset](https://www.physionet.org/physiobank/database/eegmmidb/)
+
+date: 2009/9/9
+
 **1. 概要**
 **2. 要件**
 **3. データ形式と構造**
