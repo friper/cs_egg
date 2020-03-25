@@ -131,42 +131,19 @@ date: -
 5. 3人の被験者に対して、指の動きを粉ている際の脳波　[48-64 chanels ECoG, classes 5] 
 
 
-### [High-Gamma Dataset](https://github.com/robintibor/high-gamma-dataset) EEGの複合化・視覚化の深層学習
+### [High-Gamma Dataset](https://github.com/robintibor/high-gamma-dataset) EEGの複合化・視覚化の深層学習　in Python
 
 date: 2018/9/17 
 
 
-### [Left/Right Hand 1D/2D movements](https://sites.google.com/site/projectbci/)
+### [Left/Right Hand 1D/2D movements](https://sites.google.com/site/projectbci/) 腕の動きとMI運動の脳波
 
-date: 
-
-**1. 概要**  
+date: -
 
 
-**2. 要件**  
+### [Imagination of Right-hand Thumb Movement](https://archive.ics.uci.edu/ml/datasets/Planning+Relax) 脳波を用いた動作の事前思考とそうでない状態の判別
 
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
-
-
-### [Imagination of Right-hand Thumb Movement](https://archive.ics.uci.edu/ml/datasets/Planning+Relax)
-
-date: 
-
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
+date: 2012/07/17 
 
 
 ## Emotion-Recognition 感情認識
