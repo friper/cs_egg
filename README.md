@@ -198,8 +198,6 @@ date: -
 ### [Regulation of Arousal](https://ieee-dataport.org/open-access/regulation-arousal-online-neurofeedback-improves-human-performance-demanding-sensory) 難しい感覚運動に伴う脳波
 
 date: 2019/4/03
- 
-
 
 
 ## Error-Related Potentials (ErrP) エラー関連陰性電位
