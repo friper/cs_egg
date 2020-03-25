@@ -163,44 +163,41 @@ date: 2011
 - 3 chanels not use
 
 
-### [Enterface'06](http://www.enterface.net/results/)
+### [Enterface'06](http://www.enterface.net/results/)　ワークショップのデータ集
 
-date: 
+date: 2006 - 2019
 
 
-### [Imagined Emotion](http://headit.ucsd.edu/studies/3316f70e-35ff-11e3-a2a9-0050563f2612)
+### [Imagined Emotion](http://headit.ucsd.edu/studies/3316f70e-35ff-11e3-a2a9-0050563f2612) 感情を示唆する音声
 
-date: 
+date: -
+
+**1. 概要**  
+　感情を誘起する音声を聞かせ、その感情の思い出を思い出したりやイメージしてもらう。
  
 
-### [NeuroMarketing](https://drive.google.com/open?id=0B2T1rQUvyyWcSGVVaHZBZzRtTms)
+### [NeuroMarketing](https://link.springer.com/article/10.1007/s11042-017-4580-6) 消費者の好みに関する脳波　　
+[データ](https://drive.google.com/open?id=0B2T1rQUvyyWcSGVVaHZBZzRtTms)
 
-date: 
+date: 2017/3/18
  
 
-### [SEED](http://bcmi.sjtu.edu.cn/~seed/seed.html)
+### [SEED](http://bcmi.sjtu.edu.cn/~seed/seed.html)　映像刺激による感情と脳波
 
-date: 
+date: -
+ 
+* [SEED-IV](http://bcmi.sjtu.edu.cn/~seed/seed-iv.html)
+* [SEED-VIG](http://bcmi.sjtu.edu.cn/~seed/seed-vig.html) 
  
 
-### [SEED-IV](http://bcmi.sjtu.edu.cn/~seed/seed-iv.html)
+### [HCI-Tagging](https://mahnob-db.eu/hci-tagging/) Webコンテンツと感情
 
-date: 
+date: -
  
 
-### [SEED-VIG](http://bcmi.sjtu.edu.cn/~seed/seed-vig.html)
+### [Regulation of Arousal](https://ieee-dataport.org/open-access/regulation-arousal-online-neurofeedback-improves-human-performance-demanding-sensory) 難しい感覚運動に伴う脳波
 
-date: 
- 
-
-### [HCI-Tagging](https://mahnob-db.eu/hci-tagging/)
-
-date: 
- 
-
-### [Regulation of Arousal](https://ieee-dataport.org/open-access/regulation-arousal-online-neurofeedback-improves-human-performance-demanding-sensory)
-
-date: 
+date: 2019/4/03
  
 
 
