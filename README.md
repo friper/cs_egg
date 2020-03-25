@@ -81,7 +81,7 @@ date: 2009/9/9
 14. タスク4
 
 **4. データ形式と構造**  
-　*.edfと*.edf.event
+　「*.edf」と「*.edf.event」
 
 
 ### [Grasp and Lift EEG Challenge](https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data)　物体を扱う際の脳と筋肉の関係
@@ -105,7 +105,7 @@ date: 2015/8/31
 6. 両方とも話す
 
 **4. データ形式と構造**  
-　*_data.csvと*_events.csv
+　「*_data.csv」と「*_events.csv」
 　
 　id,HandStart,FirstDigitTouch,BothStartLoadPhase,LiftOff,Replace,BothReleased
 
@@ -163,20 +163,46 @@ date: 2011
 - 3 chanels not use
 
 
-### 
+### [Enterface'06](http://www.enterface.net/results/)
 
 date: 
 
-**1. 概要**  
 
+### [Imagined Emotion](http://headit.ucsd.edu/studies/3316f70e-35ff-11e3-a2a9-0050563f2612)
 
-**2. 要件**  
+date: 
+ 
 
+### [NeuroMarketing](https://drive.google.com/open?id=0B2T1rQUvyyWcSGVVaHZBZzRtTms)
 
-**4. 実験内容**  
+date: 
+ 
 
+### [SEED](http://bcmi.sjtu.edu.cn/~seed/seed.html)
 
-**3. データ形式と構造**  
+date: 
+ 
+
+### [SEED-IV](http://bcmi.sjtu.edu.cn/~seed/seed-iv.html)
+
+date: 
+ 
+
+### [SEED-VIG](http://bcmi.sjtu.edu.cn/~seed/seed-vig.html)
+
+date: 
+ 
+
+### [HCI-Tagging](https://mahnob-db.eu/hci-tagging/)
+
+date: 
+ 
+
+### [Regulation of Arousal](https://ieee-dataport.org/open-access/regulation-arousal-online-neurofeedback-improves-human-performance-demanding-sensory)
+
+date: 
+ 
+
 
 
 ## Error-Related Potentials (ErrP) エラー関連陰性電位
