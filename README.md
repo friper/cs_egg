@@ -81,7 +81,7 @@ date: 2009/9/9
 14. タスク4
 
 **4. データ形式と構造**  
-　asterisk.edfとasterisk.edf.event
+　*.edfと*.edf.event
 
 
 ### [Grasp and Lift EEG Challenge](https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data)　物体を扱う際の脳と筋肉の関係
@@ -105,7 +105,7 @@ date: 2015/8/31
 6. 両方とも話す
 
 **4. データ形式と構造**  
-　asterisk_data.csvとasterisk_events.csv
+　*_data.csvと*_events.csv
 　
 　id,HandStart,FirstDigitTouch,BothStartLoadPhase,LiftOff,Replace,BothReleased
 
@@ -119,67 +119,21 @@ date: 2018/10/11
 　13人の被験者から201の検出項目を75回測定する。被験者に対し、スクリーン上に指示を表示し、その際の脳波を計測する。 
 
 
-### [BCI Competition IV-1](http://www.bbci.de/competition/iv/#dataset1)　BCIの発表のデータセット
+### [BCI Competition IV-1](http://www.bbci.de/competition/iv/#dataset1)　BCIの発表のデータセット1
 
 date: -
 
 **概要**  
-1. 7人の被験者の両手と両足に対して、2つの種類のMIを用意し、その脳波をモニタリングした。　　[64 chanels EEG]  
-2a. 9人の被験者の両手に足して、画像を見せ、それを実行した際の脳波　[22 chanels EEG, 3 chanels EOG]  
-2b.  
-3. 
-4.  
+1. 7人の被験者の両手と両足に対して、MIを用意し、その脳波をモニタリングした。　　[64 chanels EEG, classes 2]
+2. 9人の被験者の両手に足して、MI画像を見せ、それを実行した際の脳波　[22 chanels EEG, 3 chanels EOG, classes 4]
+3. 9人の被験者の両手に足して、運動画像を見せ、それを実行した際の脳波 [3 bipolar chanels EEG, 3 chanels EOG, classes 2]
+4. 2人の被験者に対して、手首の動きを行っている際の脳波　[10 chanels MEG, classes 4]
+5. 3人の被験者に対して、指の動きを粉ている際の脳波　[48-64 chanels ECoG, classes 5] 
 
 
-### [BCI Competition IV-2a](http://www.bbci.de/competition/iv/#dataset2a)
+### [High-Gamma Dataset](https://github.com/robintibor/high-gamma-dataset) EEGの複合化・視覚化の深層学習
 
-date: 
-
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
-
-
-### [BCI Competition IV-2b](http://www.bbci.de/competition/iv/#dataset2b)
-
-date: 
-
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
-
-
-### [High-Gamma Dataset](https://github.com/robintibor/high-gamma-dataset)
-
-date: 
-
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
+date: 2018/9/17 
 
 
 ### [Left/Right Hand 1D/2D movements](https://sites.google.com/site/projectbci/)
