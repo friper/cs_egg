@@ -116,32 +116,19 @@ date: 2015/8/31
 date: 2018/10/11
 
 **1. 概要**  
-　13人の被験者から201の検出項目を75回測定する。
-
-**2. 要件**  
+　13人の被験者から201の検出項目を75回測定する。被験者に対し、スクリーン上に指示を表示し、その際の脳波を計測する。 
 
 
-**4. 実験内容**  
+### [BCI Competition IV-1](http://www.bbci.de/competition/iv/#dataset1)　BCIの発表のデータセット
 
+date: -
 
-**3. データ形式と構造**  
-
-
-### [BCI Competition IV-1](http://www.bbci.de/competition/iv/#dataset1)
-
-date: 
-
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
+**概要**  
+1. 7人の被験者の両手と両足に対して、2つの種類のMIを用意し、その脳波をモニタリングした。　　[64 chanels EEG]
+2a. 9人の被験者の両手に足して、画像を見せ、それを実行した際の脳波　[22 chanels EEG, 3 chanels EOG]
+2b. 
+3. 
+4.  
 
 
 ### [BCI Competition IV-2a](http://www.bbci.de/competition/iv/#dataset2a)
