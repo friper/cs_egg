@@ -210,24 +210,17 @@ date: 2019/4/03
 - **エラー関連陰性電位**･･･
 脳波計測中において、被験者が何かしらの想定とは違う行為を認知した際に発生する陰性の事象関連電位のこと
 
-### [BCI-NER Challenge](https://www.kaggle.com/c/inria-bci-challenge)
+### [BCI-NER Challenge](https://www.kaggle.com/c/inria-bci-challenge) 表示される文字の正誤を脳波で判断
 
-date:   
-
-
-### [Monitoring ErrP in a target selection task](http://bnci-horizon-2020.eu/database/data-sets)
-
-date:  
+date: 2015
 
 
-### [ErrPs during continuous feedback](https://www-ti.informatik.uni-tuebingen.de/~spueler/eeg_data/contErrP_description.pdf)
+### [Monitoring ErrP in a target selection task](http://bnci-horizon-2020.eu/database/data-sets) 汎用的な課題のデータセット
 
-date:  
+date:  -
 
-
-### [HCI-Tagging](https://mahnob-db.eu/hci-tagging/)
-
-date:  
+* **Keywords**　　
+　MI、暗算、SCPトレーニング、ゲームプレイ、音楽、認知制御、エラーの監視
 
 
 ## Visually Evoked Potentials (VEPs) 視覚誘発電位
