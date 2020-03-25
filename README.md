@@ -20,7 +20,7 @@ date: 2017/5/05
 - バックグラウンドノイズレベル：37~39db
 - Matlab
 
-**4. 実験内容**　　
+**4. 実験内容**　　　
 　被験者の前方にスクリーンを用意し、スクリーン上に表示される指示に従って手を動かす
 
 **5. データ形式と構造**  
@@ -55,7 +55,7 @@ date: 2017/5/05
 date: 2009/9/9
 
 **1. 概要**  
-109人の被験者を対象に、1500を超える1~2分程度の脳波計測データ。
+　109人の被験者を対象に、1500を超える1~2分程度の脳波計測データ。
 
 **2. 要件**  
 - 64チャンネルの電極
@@ -80,39 +80,168 @@ date: 2009/9/9
 14. タスク4
 
 **4. データ形式と構造**  
-*.edfと*.ef.event
+　asterisk.edfとasterisk.edf.event
 
-### [Grasp and Lift EEG Challenge](https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data)
-**1. 概要**
-**2. 要件**
-**3. データ形式と構造**
+### [Grasp and Lift EEG Challenge](https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data)　物体を扱う際の脳と筋肉の関係
 
-### [The largest SCP data of Motor-Imagery](https://doi.org/10.6084/m9.figshare.c.3917698)
-**1. 概要**
-**2. 要件**
-**3. データ形式と構造**
+date: 2015/8/31
+
+**1. 概要**  
+　12人（8人の女性、19~35歳）の被験者に対し、モノを掴む、持ち上げる、移動させるの動作を指示し、その際の脳波を測定する。
+
+**2. 要件**  
+- 32 chanelsのEEG
+- 5 chanelsのEMG
+- 肩、前腕、および手の筋肉、腕、親指、人差し指
+
+**3. 実験内容**  
+1. HandStart
+2. FirstDigitTouch
+3. BouthStartLoadPhase
+4. 下げる
+5. 移動する
+6. 両方とも話す
+
+**4. データ形式と構造**  
+　asterisk_data.csvとasterisk_events.csv
+　
+　id,HandStart,FirstDigitTouch,BothStartLoadPhase,LiftOff,Replace,BothReleased
+
+
+### [The largest SCP data of Motor-Imagery](https://doi.org/10.6084/m9.figshare.c.3917698) イメージ・トレーニングのデータセット　　
+[詳細](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190745/pdf/sdata2018211.pdf)
+
+date: 2018/10/11
+
+**1. 概要**  
+　13人の被験者から201の検出項目を75回測定する。
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
 
 ### [BCI Competition IV-1](http://www.bbci.de/competition/iv/#dataset1)
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
 
 
 ### [BCI Competition IV-2a](http://www.bbci.de/competition/iv/#dataset2a)
 
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
+
 
 ### [BCI Competition IV-2b](http://www.bbci.de/competition/iv/#dataset2b)
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
 
 
 ### [High-Gamma Dataset](https://github.com/robintibor/high-gamma-dataset)
 
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
+
 
 ### [Left/Right Hand 1D/2D movements](https://sites.google.com/site/projectbci/)
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
 
 
 ### [Imagination of Right-hand Thumb Movement](https://archive.ics.uci.edu/ml/datasets/Planning+Relax)
 
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
 
 
 ## Emotion-Recognition 感情認識
 
+###
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
 
 
 ## Error-Related Potentials (ErrP) エラー関連陰性電位
@@ -121,34 +250,162 @@ date: 2009/9/9
 
 ###
 
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
 
 
 ## Visually Evoked Potentials (VEPs) 視覚誘発電位
+
+###
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
 
 
 
 ## Event Related Potentials [ERPs] 事象関連電位
 
+###
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
 
 
 ## Resting State 安静時の自発性能活動
 
+###
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
 
 
 ## Music and EEG 聴覚刺激における脳波 
 
+###
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
 
 
 ## Eye-blinks/movements 瞬きと動作が脳波に与える影響
 
+###
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
 
 
 ## Miscellaneous 多方面の研究
 
+###
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
 
 
 ## Clinical EEG 疾病者の脳波
 
+###
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
 
 
 ## Others [Unfiltered]
+
+###
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
