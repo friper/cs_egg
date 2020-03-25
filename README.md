@@ -221,12 +221,12 @@ date:  -
 
 ## Visually Evoked Potentials (VEPs) 視覚誘発電位
 
-### [c-VEP BCI](https://www-ti.informatik.uni-tuebingen.de/~spueler/eeg_data/cVEP_dataset.rar)
+### [c-VEP BCI](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051077)
 
-date: 
+date: 2012/12/07
 
 
-### [c-VEP BCI with dry electrodes](https://www-ti.informatik.uni-tuebingen.de/~spueler/eeg_data/dry_cVEP_dataset.rar)
+### [c-VEP BCI with dry electrodes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0172400)
 
 date: 
 
