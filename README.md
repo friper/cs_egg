@@ -50,6 +50,7 @@ date: 2017/5/05
     - 電圧の大きさによって決まる悪い試行
     - EMGの活動と相関する悪い試験
 
+
 ### [Motor Movement/Imagery Dataset](https://www.physionet.org/physiobank/database/eegmmidb/) イメージと運動が脳波に及ぼす影響
 
 date: 2009/9/9
@@ -81,6 +82,7 @@ date: 2009/9/9
 
 **4. データ形式と構造**  
 　asterisk.edfとasterisk.edf.event
+
 
 ### [Grasp and Lift EEG Challenge](https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data)　物体を扱う際の脳と筋肉の関係
 
@@ -234,16 +236,13 @@ date:
 date: 2011
 
 **1. 概要**  
-
+　32人の被験者に対し、1分間のミュージックビデオを40本ずつ視聴した際の脳波と抹消の生理学的信号を測定する。
+その際、覚醒度、価数、好き・嫌い、優位性、親しみやすさを評価する。
 
 **2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
+- 32 chanels EEG
+- 12 chanels around
+- 3 chanels not use
 
 
 ### 
