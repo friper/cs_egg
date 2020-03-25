@@ -20,7 +20,7 @@ date: 2017/5/05
 - バックグラウンドノイズレベル：37~39db
 - Matlab
 
-**4. 実験内容**　　　
+**4. 実験内容**　　
 　被験者の前方にスクリーンを用意し、スクリーン上に表示される指示に従って手を動かす
 
 **5. データ形式と構造**  
@@ -109,7 +109,7 @@ date: 2015/8/31
 
 
 ### [The largest SCP data of Motor-Imagery](https://doi.org/10.6084/m9.figshare.c.3917698) イメージ・トレーニングのデータセット　　
-[詳細](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190745/pdf/sdata2018211.pdf)
+[[詳細]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190745/pdf/sdata2018211.pdf)
 
 date: 2018/10/11
 
@@ -227,8 +227,26 @@ date:
 
 
 ## Emotion-Recognition 感情認識
+- **[遺伝的アルゴリズム](https://dic.nicovideo.jp/a/遺伝的アルゴリズム)**
 
-###
+### [DEAP](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/) 遺伝的アルゴリズム in Python
+
+date: 2011
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
+
+
+### 
 
 date: 
 
@@ -248,7 +266,24 @@ date:
 - **エラー関連陰性電位**･･･
 脳波計測中において、被験者が何かしらの想定とは違う行為を認知した際に発生する陰性の事象関連電位のこと
 
-###
+### [BCI-NER Challenge](https://www.kaggle.com/c/inria-bci-challenge)
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
+
+
+### 
 
 date: 
 
@@ -267,7 +302,24 @@ date:
 
 ## Visually Evoked Potentials (VEPs) 視覚誘発電位
 
-###
+### [c-VEP BCI](https://www-ti.informatik.uni-tuebingen.de/~spueler/eeg_data/cVEP_dataset.rar)
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
+
+
+### 
 
 date: 
 
@@ -286,7 +338,24 @@ date:
 
 ## Event Related Potentials [ERPs] 事象関連電位
 
-###
+### [Pattern Visual Evoked Potentials](https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software)
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
+
+
+### 
 
 date: 
 
@@ -304,7 +373,24 @@ date:
 
 ## Resting State 安静時の自発性能活動
 
-###
+### [Resting State EEG Data](https://dataverse.tdl.org/dataverse/txstatecogelectro)
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
+
+
+### 
 
 date: 
 
@@ -322,7 +408,7 @@ date:
 
 ## Music and EEG 聴覚刺激における脳波 
 
-###
+### [Music Imagery Information Retrieval](https://github.com/sstober/openmiir)
 
 date: 
 
@@ -340,7 +426,24 @@ date:
 
 ## Eye-blinks/movements 瞬きと動作が脳波に与える影響
 
-###
+### [Involuntary Eye Movements during Face Perception](http://www2.hu-berlin.de/eyetracking-eeg/testdata.html)
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
+
+
+### 
 
 date: 
 
@@ -358,7 +461,24 @@ date:
 
 ## Miscellaneous 多方面の研究
 
-###
+### [MNIST Brain Digits](http://mindbigdata.com/opendb/index.html)
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
+
+
+### 
 
 date: 
 
@@ -376,7 +496,24 @@ date:
 
 ## Clinical EEG 疾病者の脳波
 
-###
+### [TUH EEG Resources](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml)
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
+
+
+### [Predict-UNM](http://predict.cs.unm.edu/)
 
 date: 
 
@@ -394,7 +531,25 @@ date:
 
 ## Others [Unfiltered]
 
-###
+### https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html  
+http://headit.ucsd.edu/studies
+
+date: 
+
+**1. 概要**  
+
+
+**2. 要件**  
+
+
+**4. 実験内容**  
+
+
+**3. データ形式と構造**  
+
+
+
+### 
 
 date: 
 
