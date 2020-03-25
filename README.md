@@ -3,11 +3,6 @@ Cheat Sheet for Brain
 
 Overview
 
-<!-- START doctoc -->
-
-- [Motor-Imagery](#Motor-Imagery イメージ・トレーニング)
-
-<!-- END doctoc -->
 
 ## Motor-Imagery イメージ・トレーニング
 
@@ -219,7 +214,8 @@ date: 2015
 
 date:  -
 
-* **Keywords**　　
+* **Keywords**  
+
 　MI、暗算、SCPトレーニング、ゲームプレイ、音楽、認知制御、エラーの監視
 
 
@@ -229,69 +225,77 @@ date:  -
 
 date: 
 
-**1. 概要**  
 
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
-
-
-### 
+### [c-VEP BCI with dry electrodes](https://www-ti.informatik.uni-tuebingen.de/~spueler/eeg_data/dry_cVEP_dataset.rar)
 
 date: 
 
-**1. 概要**  
+
+### [SSVEP - Visual Search/Discrimination and Handshake](https://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals#)
+
+date: 
 
 
-**2. 要件**  
+### [Synchronized Brainwave Dataset](https://www.kaggle.com/berkeley-biosense/synchronized-brainwave-dataset)
 
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
+date: 
 
 
 ## Event Related Potentials [ERPs] 事象関連電位
 
 ### [Pattern Visual Evoked Potentials](https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software)
 
-date: 
-
-**1. 概要**  
+date:   
 
 
-**2. 要件**  
+### [Face vs. House Discrimination](https://purl.stanford.edu/xd109qh3109)
+
+date:   
 
 
-**4. 実験内容**  
+### [Target Versus Non-Target](https://zenodo.org/record/2649069)
+
+date:   
 
 
-**3. データ形式と構造**  
+### [Target Versus Non-Target](https://zenodo.org/record/2669187)
+
+date:   
 
 
+### [Target Versus Non-Target](https://zenodo.org/record/3266223)
 
-### 
-
-date: 
-
-**1. 概要**  
+date:   
 
 
-**2. 要件**  
+### [Target Versus Non-Target](https://zenodo.org/record/3267302)
+
+date:   
 
 
-**4. 実験内容**  
+### [Target Versus Non-Target](https://zenodo.org/record/3266930)
+
+date:   
 
 
-**3. データ形式と構造**  
+### [Target Versus Non-Target](https://zenodo.org/record/3268762)
+
+date:   
+
+
+### [Impedance Data](https://drive.google.com/drive/folders/0B3jfvN2T6iLMLWJMMVJMSXBqajg)
+
+date:   
+
+
+### [Sustained-Attention Driving](https://figshare.com/articles/Multi-channel_EEG_recordings_during_a_sustained-attention_driving_task/6427334/5)
+
+date:   
+
+
+### [Dryad-Speech](https://datadryad.org/stash/dataset/doi:10.5061/dryad.070jc)
+
+date:   
 
 
 ## Resting State 安静時の自発性能活動
@@ -300,51 +304,17 @@ date:
 
 date: 
 
-**1. 概要**  
 
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
-
-
-### 
+### [EID-M, EID-S](https://drive.google.com/drive/folders/1t6tL434ZOESb06ZvA4Bw1p9chzxzbRbj)
 
 date: 
-
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
 
 
 ## Music and EEG 聴覚刺激における脳波 
 
 ### [Music Imagery Information Retrieval](https://github.com/sstober/openmiir)
 
-date: 
-
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
+date:  
 
 
 ## Eye-blinks/movements 瞬きと動作が脳波に与える影響
@@ -353,68 +323,62 @@ date:
 
 date: 
 
-**1. 概要**  
 
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
-
-
-### 
+### [Voluntary-Involuntary Eye-Blinks](https://drive.google.com/file/d/0By5iwWd39NblS2tRWmVTdmRzZUU/view?usp=sharing)
 
 date: 
 
-**1. 概要**  
+
+### [EEG-eye state](https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State)
+
+date: 
 
 
-**2. 要件**  
+### [EEG-IO](http://gnan.ece.gatech.edu/eeg-eyeblinks/)
+
+date: 
 
 
-**4. 実験内容**  
+### [EEG-VV, EEG-VR](http://gnan.ece.gatech.edu/eeg-eyeblinks/)
+
+date: 
 
 
-**3. データ形式と構造**  
+### [Eye State Prediction](http://suendermann.com/corpus/EEG_Eyes.arff.gz)
+
+date: 
+
+
+### [Kara-One](http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html)
+
+date: 
 
 
 ## Miscellaneous 多方面の研究
 
 ### [MNIST Brain Digits](http://mindbigdata.com/opendb/index.html)
 
-date: 
-
-**1. 概要**  
+date:  
 
 
-**2. 要件**  
+### [Imagenet Brain](http://www.mindbigdata.com/opendb/imagenet.html)
+
+date:  
 
 
-**4. 実験内容**  
+### [Working Memory](https://github.com/pbashivan/EEGLearn/tree/master/Sample%20data)
+
+date:  
 
 
-**3. データ形式と構造**  
+### [Deep Sleep Slow Osciallation](https://challengedata.ens.fr/challenges/10)
+
+date:  
 
 
+### [Genetic Predisposition to Alcoholism](https://archive.ics.uci.edu/ml/datasets/EEG+Database)
 
-### 
-
-date: 
-
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
+date:  
 
 
 ## Clinical EEG 疾病者の脳波
@@ -423,33 +387,10 @@ date:
 
 date: 
 
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
-
 
 ### [Predict-UNM](http://predict.cs.unm.edu/)
 
 date: 
-
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
 
 
 ## Others [Unfiltered]
@@ -459,31 +400,8 @@ http://headit.ucsd.edu/studies
 
 date: 
 
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
-
-
 
 ### 
 
 date: 
-
-**1. 概要**  
-
-
-**2. 要件**  
-
-
-**4. 実験内容**  
-
-
-**3. データ形式と構造**  
 
